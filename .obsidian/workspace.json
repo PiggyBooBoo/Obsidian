@@ -1,0 +1,213 @@
+{
+  "main": {
+    "id": "367d316bcd833f5f",
+    "type": "split",
+    "children": [
+      {
+        "id": "fc99f7244047202b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3652c379093f32c7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "มนุษย์เป็นสัตว์สังคม (แค่บางวันก็พอ).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "มนุษย์เป็นสัตว์สังคม (แค่บางวันก็พอ)"
+            }
+          },
+          {
+            "id": "29914194a6d98bd9",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Project Board/Untitled Kanban.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              },
+              "icon": "lucide-trello",
+              "title": "Untitled Kanban"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6193e49bcccf8909",
+    "type": "split",
+    "children": [
+      {
+        "id": "8990c18ec1a3630e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fb2086022d2e5a0e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "File explorer"
+            }
+          },
+          {
+            "id": "fb4028e789e25044",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "ค้นหา"
+            }
+          },
+          {
+            "id": "0c09ee60087df476",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8060663aa33e013e",
+    "type": "split",
+    "children": [
+      {
+        "id": "9acf9b5f65241827",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ede4c64bc53d814e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "มนุษย์เป็นสัตว์สังคม (แค่บางวันก็พอ).md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "แบ็คลิงค์ของ มนุษย์เป็นสัตว์สังคม (แค่บางวันก็พอ)"
+            }
+          },
+          {
+            "id": "3d96fd95daece0ca",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "มนุษย์เป็นสัตว์สังคม (แค่บางวันก็พอ).md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "ลิงค์ขาออกของ มนุษย์เป็นสัตว์สังคม (แค่บางวันก็พอ)"
+            }
+          },
+          {
+            "id": "84b1a27176d70cc0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "9d1cfde26afcdf00",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "มนุษย์เป็นสัตว์สังคม (แค่บางวันก็พอ).md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "โครงเรื่องของ มนุษย์เป็นสัตว์สังคม (แค่บางวันก็พอ)"
+            }
+          },
+          {
+            "id": "045dc72103f2d3d7",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:เปิด quick switcher": false,
+      "graph:เปิดมุมมองกราฟ": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:เปิดโน้ตของวันนี้": false,
+      "templates:แทรกเทมเพลต": false,
+      "command-palette:เปิดกระดานคำสั่ง": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-kanban:Create new board": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "3652c379093f32c7",
+  "lastOpenFiles": [
+    "Project Board/Untitled Kanban.md",
+    "มนุษย์เป็นสัตว์สังคม (แค่บางวันก็พอ).md",
+    "README.md",
+    "Project Board",
+    "Excalidraw/Drawing 2025-03-20 10.49.31.excalidraw.md",
+    "Excalidraw"
+  ]
+}
